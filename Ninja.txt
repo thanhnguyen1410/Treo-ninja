@@ -1,1 +1,2 @@
 Severtest:0.tcp.ap.ngrok.io:17947:0:0
+https://Bot-cua-Nguyen-Thanh-500-lenh.game-androidan1.repl.co
